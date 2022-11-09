@@ -9,7 +9,7 @@ I'm a code newbie, learning and documenting my journey with projects while I lea
 * 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [portfolio](http://dev-steve.netlify.app)
 * ✉️  You can contact me at [stephenokyere621@gmail.com](mailto:stephenokyere621@gmail.com)
-* 🚀  I'm currently working on [PalindromeCheck](http://palindromcheck.netlify.app)
+* 🚀  I'm currently working on [Palmstore](https://github.com/stephenokyere233/Palmstore)
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on web development projects
 
