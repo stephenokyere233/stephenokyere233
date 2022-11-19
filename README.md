@@ -13,8 +13,8 @@ I'm a code newbie, learning and documenting my journey with projects while I lea
 * 🧠  I'm learning Javascript
 * 🤝  I'm open to collaborating on web development projects
 
-<a href="https://www.twitter.com//dev__steve" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow//dev__steve?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/dev__steve" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/dev__steve?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/stephenokyere233" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/stephenokyere233?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
