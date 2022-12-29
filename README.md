@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stephen Okyere
 ======================================================================================================================================
 
-Web developer
+Frontend Developer
 -------------
 
 I'm a code newbie, learning and documenting my journey with projects while I learn
 
 * 🌍  I'm based in Ghana
-* 🖥️  See my portfolio at [portfolio](http://dev-steve.netlify.app)
+* 🖥️  See my portfolio at [portfolio](https://portfolio-devsteve.netlify.app/)
 * ✉️  You can contact me at [stephenokyere621@gmail.com](mailto:stephenokyere621@gmail.com)
 * 🚀  I'm currently working on [Palmstore](https://github.com/stephenokyere233/palmstore-next) and [PalmPlayy](https://github.com/stephenokyere233/palmplayy)
 * 🧠  I'm learning Javascript
@@ -46,8 +46,6 @@ src="https://img.shields.io/github/followers/stephenokyere233?logo=github&style=
 
 
 <a href="https://github.com/stephenokyere233" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenokyere233&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
- <!--START_SECTION:activity--> 
 
 
 ### Support Me
