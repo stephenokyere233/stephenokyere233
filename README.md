@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 -------------
 
-I'm a code newbie, learning and documenting my journey with projects while I learn
+Unlocking the power of the web, one code line at a time - a self-taught Junior Frontend Developer on a journey of growth and learning
 
 * 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [portfolio](https://portfolio-devsteve.netlify.app/)
