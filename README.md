@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Stephen Okyere
 ======================================================================================================================================
 
-Frontend Developer
+Software Developer
 -------------
 
 Unlocking the power of the web, one code line at a time - a self-taught Software Developer on a journey of growth and learning
