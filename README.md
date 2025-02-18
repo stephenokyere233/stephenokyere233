@@ -9,8 +9,6 @@ Unlocking the power of the web, one code line at a time - a self-taught Software
 * 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [portfolio](https://devsteve.pro/)
 * ✉️  You can contact me at [stephenokyere621@gmail.com](mailto:stephenokyere621@gmail.com)
-* 🚀  I'm currently working on [Palmstore](https://github.com/stephenokyere233/palmstore-next) and [PalmPlayy](https://github.com/stephenokyere233/palmplayy)
-* 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on web and mobile app development projects
 
 <a href="https://www.twitter.com/dev__steve" target="_blank" rel="noreferrer"><img
